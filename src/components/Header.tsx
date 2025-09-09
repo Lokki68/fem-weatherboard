@@ -1,5 +1,5 @@
 import logo from "../assets/images/logo.svg";
-import Dropdown from "./Header/Dropdown";
+import Dropdown from "./Ui/Dropdown";
 
 const Header = () => {
   return (
